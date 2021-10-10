@@ -1,0 +1,16 @@
+html{
+    text-align: center;
+    background-image: url("bg1.jpg");
+}
+h1{
+    color: rgb(51, 255, 0);
+}
+canvas{
+    background-color: white;
+    border: ridge;
+}
+#b1{
+    background-color: lightgreen;
+    width: 100px;
+    height: 30px;
+}
